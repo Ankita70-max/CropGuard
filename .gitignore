@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Dataset
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# TensorFlow/Keras model files
+*.h5
+*.keras
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+
+# Logs
+*.log
